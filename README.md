@@ -1,3 +1,12 @@
+爬波星视界,http://twip.xztvtv.site/
+
+爬波台湾,http://104.233.187.235/4ghtml/live.html
+ 
+央视频,https://pub.hd.caiweiqiang.cn:5001/tv-live/
+
+爬波星视界2 ,http://104.233.187.235/histar/live.html
+
+
 VPN Surf - 通過解鎖快速 VPN
 
 https://chromewebstore.google.com/detail/nhnfcgpcbfclhfafjlooihdfghaeinfc?hl=zh-TW&utm_source=ext_sidebar
