@@ -163,7 +163,6 @@ Little Girl,https://www.youtube.com/watch?v=n65PzF_l9ic
 
 央視頻道,#genre#
 parse=1
-player=2
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 
 CCTV4K,https://www.yangshipin.cn/tv/home?pid=600002264
@@ -188,7 +187,6 @@ X3綜藝,https://www.yangshipin.cn/tv/home?pid=600001801
 
 衛視頻道,#genre#
 parse=1
-player=2
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 
 江蘇衛視,https://www.yangshipin.cn/tv/home?pid=600002521
