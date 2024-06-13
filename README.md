@@ -48,31 +48,31 @@ CCTV直播,https://tv.cctv.com/live
 
 易播機上盒使用教學 https://6868jx.com
 
-極致 https://t.me/jizhi222
+极致播放器交流群 https://t.me/jizhi222
 
-影視 https://t.me/fongmi_offical
+影視TV https://t.me/fongmi_offical
 
-肥羊 https://t.me/feiyangdigital
+肥羊影音数码综合交流群 https://t.me/feiyangdigital
 
-醒人室 https://t.me/TVBoxxoo
+Box醒人室 https://t.me/TVBoxxoo
 
-pixman https://t.me/livednowgroup
+pixman.io & livednow.com 交流群 https://t.me/livednowgroup
 
-智能電視 https://t.me/meitu007
+智能电视盒子直播源 https://t.me/meitu007
 
-大宇 https://t.me/Dayuptv
+大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
-iptv https://t.me/iptv66
+IPTV📺軟件&直播源 https://t.me/iptv66
 
-電視直播 https://t.me/atv168
+电视直播交流群 https://t.me/atv168
 
-智能廢群 https://t.me/tvbox002
+智能电视盒子应用分享和交流 https://t.me/tvbox002
 
-必勝影視 https://t.me/beatsingdrama
+必勝影視交流群 https://t.me/beatsingdrama
 
 ＋＋＋＋＋＋＋＋＋
 
-訂閱 https://t.me/TVBoxjkou
+訂閱
 
 肥羊 https://t.me/feiyangofficalchannel
 
