@@ -97,9 +97,6 @@ rtmp日本,#genre#
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
 民視,rtmp://f13h.mine.nu/sat/tv051
-動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
-BBC EARTH,http://171.208.19.192:9090/live/BBCEarth/hls.m3u8
 
 北京香港,#genre#
 CCTV4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
