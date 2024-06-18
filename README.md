@@ -1,3 +1,7 @@
+TVBS新聞,https://www.litv.tv/channel/watch/4gtv-4gtv072
+
+東森新聞,https://www.litv.tv/channel/watch/4gtv-4gtv152
+
 爬波星视界,http://twip.xztvtv.site/
 
 爬波台湾,http://104.233.187.235/4ghtml/live.html
