@@ -1,3 +1,7 @@
+litv頻道,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+
 TVBS新聞,https://www.litv.tv/channel/watch/4gtv-4gtv072
 
 東森新聞,https://www.litv.tv/channel/watch/4gtv-4gtv152
