@@ -42,7 +42,7 @@ TVBS新聞L,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 
-TVBS新聞,video://https://today.line.me/tw/v2/article/jggMBa
+TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
 
 
 4TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
