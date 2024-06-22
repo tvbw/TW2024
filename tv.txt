@@ -1,7 +1,10 @@
 MOD卡通,#genre#
 CBeebies,udp://@224.1.4.75:11111
 
-東森幼幼台,https://histar.zapi.us.kg/?id=ebc-yoyo
+東森幼幼1,https://z02.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
+東森幼幼2,https://z02.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
+MOMO親子台1,https://z02.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
+MOMO親子台2,https://z02.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
 
 TVBS新聞L,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 東森新聞L,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv152
