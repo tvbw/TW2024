@@ -153,3 +153,24 @@ Little Girl,https://www.youtube.com/watch?v=n65PzF_l9ic
 國旗,https://youtu.be/Hef_G-EzK20?si=rPUp-ZoTwkBegahv
 國旗歌,https://youtu.be/vTk_3Qv8TMk?si=ruNVZHkhj7tLLawD
 
+央視,#genre#
+1綜合,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+2財經,https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8
+3綜藝,https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8
+4中文國際,https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8
+5體育,https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
+5+體育賽事,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
+6電影,https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
+7國防軍事,https://api.olelive.com/dis/live/CCTV7HD/hls.m3u8
+8電視劇,https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8
+9紀錄,https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8
+10科教,https://api.olelive.com/dis/live/CCTV10HD/hls.m3u8
+11戲曲,https://api.olelive.com/dis/live/CCTV11HD/hls.m3u8
+12社會與法,https://api.olelive.com/dis/live/CCTV12HD/hls.m3u8
+13新聞,https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
+14少兒,https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8
+15音樂,https://api.olelive.com/dis/live/CCTV15HD/hls.m3u8
+16奧林匹克,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8
+17農業農村,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
+
+
