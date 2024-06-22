@@ -69,9 +69,6 @@ rtmp日本,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 
-TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
-
-
 4TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
 4東森新聞,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 4靖天日本,https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
