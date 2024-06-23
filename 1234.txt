@@ -1,4 +1,6 @@
 新聞頻道,#genre#
+parse=1
+
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -13,11 +15,15 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 卡通頻道,#genre#
+parse=1
+
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 蠟筆小新,https://www.youtube.com/watch?v=_jP5o1W3eW0
 中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
 
 風景頻道,#genre#
+parse=1
+
 瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
