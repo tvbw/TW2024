@@ -44,11 +44,6 @@ TVBS新聞L,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 油管新聞,#genre#
 parse=1
 
-TVBS新聞H,https://51.159.107.232/watch?v=2mCSYvcfhtc&__cpo=aHR0cHM6Ly9tLnlvdXR1YmUuY29t
-
-東森新聞H,https://51.159.195.51/watch?v=E0zhe2gkXBs&__cpo=aHR0cHM6Ly9tLnlvdXR1YmUuY29t
-
-
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
