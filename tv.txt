@@ -6,6 +6,10 @@ CBeebies,udp://@224.1.4.75:11111
 MOMO親子台1,https://z02.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
 MOMO親子台2,https://z02.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
 
+TVBS新聞,https://51.159.107.232/watch?v=2mCSYvcfhtc&__cpo=aHR0cHM6Ly9tLnlvdXR1YmUuY29t
+
+東森新聞,https://51.159.195.51/watch?v=E0zhe2gkXBs&__cpo=aHR0cHM6Ly9tLnlvdXR1YmUuY29t
+
 TVBS新聞L,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 東森新聞L,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv152
 民視新聞L,https://qq01xp.serv00.net/litv.php?id=litv-ftv13
