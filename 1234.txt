@@ -1,5 +1,6 @@
 新聞頻道,#genre#
 parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
@@ -16,6 +17,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 卡通頻道,#genre#
 parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 蠟筆小新,https://www.youtube.com/watch?v=_jP5o1W3eW0
@@ -23,6 +25,7 @@ parse=1
 
 風景頻道,#genre#
 parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 
 瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
