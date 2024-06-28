@@ -72,6 +72,7 @@ rtmp日本,#genre#
 民視,rtmp://f13h.mine.nu/sat/tv051
 
 北京香港,#genre#
+哆啦A夢：大雄與天空的理想鄉,https://shwbwxsns.video.qq.com/130/20210/snssvpdownload/SH/reserved/0bc3jqab6aaacuahnjq7insvatgdd5gaahya.f10002.mp4
 CCTV4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CHC影迷電影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
